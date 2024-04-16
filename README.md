@@ -11,4 +11,4 @@
 ###
 ![Screenshot 5](/image5.png)
 
-[Link Text]([https://www.example.com](https://github.com/IConanEdogawa/ProductComparisionAPI))
+https://github.com/IConanEdogawa/ProductComparisionAPI
