@@ -11,4 +11,5 @@
 ###
 ![Screenshot 5](/image5.png)
 
-https://github.com/IConanEdogawa/ProductComparisionAPI
+### Man ishlatgan API mana shu edi man uni to`girlabv qildim.
+#https://github.com/IConanEdogawa/ProductComparisionAPI
